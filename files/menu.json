@@ -1,0 +1,11 @@
+{
+  "examples": {
+    "title": "First",
+    "index": 90
+  },
+  "examples/first_app": {
+    "title": "First app",
+    "view": "vuci-app-first",
+    "index": 10
+  }
+}
